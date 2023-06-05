@@ -1,0 +1,6 @@
+﻿  源.c
+C:\Users\超良好\source\repos\数组名\数组名\源.c(6,9): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“int”
+C:\Users\超良好\source\repos\数组名\数组名\源.c(7,23): error C2109: 下标要求数组或指针类型
+C:\Users\超良好\source\repos\数组名\数组名\源.c(7,9): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+C:\Users\超良好\source\repos\数组名\数组名\源.c(7,9): message : 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+C:\Users\超良好\source\repos\数组名\数组名\源.c(7,9): message : 缺失的可变参数 1 为格式字符串“%p”所需
